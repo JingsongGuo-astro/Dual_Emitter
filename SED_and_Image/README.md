@@ -1,1 +1,0 @@
-SED and Image folder
